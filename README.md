@@ -66,7 +66,8 @@ The table [tb_analisa](/data/tb_analisa.csv) combines information from all three
 The Kimia Farma Business Performance Dashboard provides comprehensive insights into the business's performance across different branches and time periods. Here is a [link](https://lookerstudio.google.com/reporting/904ac2cf-8c10-497b-9b53-f9e3e77b8ada) to the live dashboard. The dashboard consists of two main pages:
 
 1. Kimia Farma Business Performance (2020-2023)
-This page gives an overall summary of the business performance from 2020 to 2023. Key features include:
+
+   This page gives an overall summary of the business performance from 2020 to 2023. Key features include:
 
     - Filter Options:
         - Province: Allows users to filter by specific provinces in Indonesia.
@@ -86,8 +87,9 @@ This page gives an overall summary of the business performance from 2020 to 2023
         
         A line chart compares the monthly revenue for each year (2020-2023). It highlights fluctuations in revenue across different months, with noticeable spikes in May and November each year. The revenue trend is relatively stable, ranging from IDR 6.6 billion to 7.4 billion per month.
 
-2. Performance by Branch
-This second page provides detailed insights into the performance of different Kimia Farma branches across Indonesia. It includes the following sections:
+3. Performance by Branch
+
+   This second page provides detailed insights into the performance of different Kimia Farma branches across Indonesia. It includes the following sections:
 
     - Filter Options:
         - Province: Users can focus on specific provinces.
